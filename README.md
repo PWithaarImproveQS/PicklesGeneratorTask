@@ -22,7 +22,7 @@ No specific requirements are present for this task to run.
 * **Include Experimental Features**: As of version 2.5, Pickles includes experimental features. The goal of experimental features is to get rapid feedback about ideas. They are subject to change or removal at any time. The experimental features are not always completely thought through - including them and receiving feedback about them enables us to make better decisions about those features. This argument is a flag. Including the argument means that the experimental features should be included. If the argument is not included, then the experimental features will not be included.
 
 ## Release notes
-
+# 2.21.0 - Forked from original repo due to inactivity of the base repo (https://github.com/x97mdr/pickles). New repo : (https://github.com/PWithaarImproveQS/PicklesGeneratorTask) Updated to Pickles version 2.21.0
 * 1.0.3 - Fixed an issues where output dir couldn't be insisting path [#3](https://github.com/mmajcica/PicklesGeneratorTask/issues/3). Pickles binaries upgraded to v2.20.1 [#1](https://github.com/mmajcica/PicklesGeneratorTask/issues/1). Test result file parameter now accepts advanced pattern matching in order to allow for the file search [#2](https://github.com/mmajcica/PicklesGeneratorTask/issues/2)
 * 1.0.2 - Improved markdown file. No changes for the build task
 * 1.0.1 - Minor improvements on the extension. No changes for the build task

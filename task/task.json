@@ -1,9 +1,9 @@
 {
-  "id": "9c51e2d0-3f17-11e8-bc78-ebd2853351dc",
+  "id": "1ebe8fa4-6993-49e4-8aa1-fe51fd2b7720",
   "name": "Pickles",
   "friendlyName": "Pickles",
   "description": "Pickles generator",
-  "author": "Mario Majcica",
+  "author": "Improve Quality Services",
   "helpMarkDown": "Generates your Pickles living documentation",
   "category": "Utility",
   "visibility": [
@@ -12,8 +12,8 @@
   ],
   "demands": [],
   "version": {
-    "Major": "1",
-    "Minor": "1",
+    "Major": "2",
+    "Minor": "21",
     "Patch": "0"
   },
   "minimumAgentVersion": "1.95.0",

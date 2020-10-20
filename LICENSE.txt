@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2018 Mario Majcica
+Copyright (c) 2020 Pieter Withaar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -81,6 +81,8 @@ Disclaimer:
     Copyright (c) 2009, TechTalk
 
     Disclaimer:
+    * The initial version of this task was written by Mmajcica (https://github.com/PWithaarImproveQS/PicklesGeneratorTask)
+    No 3rd party code was included.
     * The initial codebase of Specflow was written by TechTalk employees. 
     No 3rd party code was included.
     * No code of customer projects was used to create this project.
